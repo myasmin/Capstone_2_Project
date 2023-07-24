@@ -1,6 +1,8 @@
-# Capstone_2_Project: TELECO CUSTOMER CHURN DATA.
+# Capstone_2_Project: TELECO CUSTOMER CHURN DATA
 
 This is a Capstone Project Submission for DATA SCIENCE CAREER TRACK Certification for Springboard.
+
+! ["Title"] (./Readme_Files/HomeAdvisor_Losing_customers.jpg )
 
 The objective of this analysis is to find out a Data Driven business scope to determine what contributes to Customer Churn for a Telecom Company in California in Q2 2022.
 
