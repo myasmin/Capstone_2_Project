@@ -28,5 +28,20 @@ More than 25% missing entries in the Churn Status and Churn Reason record.
 
 Dataset available at kaggle provided by MavenAnalytics.
 Dataset sourced from IBM Cognos
+
+## ABOUT THE DATASET:
+
+* The Customer Churn table (7043 rows, 38 columns) contains information on all 7,043 customers from a Telecommunications company in California in Q2 2022.
+* Each record represents one customer, and contains details about their demographics, location, tenure, subscription services, status for the quarter (joined, stayed, or churned), and more!
+
+## EXPLORING THE REASONS FOR CHURN:
+
+The exploration of the Churn reason among churned customers revealed some interesting findings. At the end of Q2 2022, 67% of the customers stayed with the service provider and 26.54% of the Customers Churned (a customer churn rate of 25% is considered high).
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+The majority of the Churned customers noted the Attitude of the Customer Representative as their reason to churn.
+
+## FINDINGS FROM THE ANALYSIS:
 _________________________________________
 
