@@ -42,6 +42,15 @@ The exploration of the Churn reason among churned customers revealed some intere
 
 The majority of the Churned customers noted the Attitude of the Customer Representative as their reason to churn.
 
+Details on Data Wrangling [here](https://github.com/myasmin/Capstone_2_Project/blob/master/Data%20Wrangling.ipynb).
+Details on EDA [here](https://github.com/myasmin/Capstone_2_Project/blob/master/Exploratory%20Data%20Analysis.ipynb).
+Details on Data Preprocessing [here](https://github.com/myasmin/Capstone_2_Project/blob/master/PreProcessing%20New.ipynb).
+Details on Modelling [here](https://github.com/myasmin/Capstone_2_Project/blob/master/Modelling.ipynb).
+
+Find a project report in [here](https://github.com/myasmin/Capstone_2_Project/blob/master/Customer%20Churn%20Presentation.pdf).
+
 ## FINDINGS FROM THE ANALYSIS:
+
+Random Forest and Logistic Regression performed well as clessifiers [details analysis here] (https://github.com/myasmin/Capstone_2_Project/blob/master/Modelling.ipynb), but I felt there is still scope for defining pipelines and finding important features. The ‘Labelbinarizer’ (Scikitlearn library) helped to reduce the dimensionality, but it didn’t comply well for pipeline designing and important feature finding
 _________________________________________
 
