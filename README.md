@@ -54,6 +54,23 @@ Find a project report in [here](https://github.com/myasmin/Capstone_2_Project/bl
 
 ## FINDINGS FROM THE ANALYSIS:
 
-Random Forest and Logistic Regression performed well as classifiers [details analysis here](https://github.com/myasmin/Capstone_2_Project/blob/master/Modelling.ipynb), but I felt there is still scope for defining pipelines and finding important features. The ‘Labelbinarizer’ (Scikitlearn library) helped to reduce the dimensionality, but it didn’t comply well for pipeline designing and important feature finding
+Random Forest and Logistic Regression performed well as classifiers [details analysis here](https://github.com/myasmin/Capstone_2_Project/blob/master/Modelling.ipynb), but I felt there is still scope for defining pipelines and finding important features. The ‘Labelbinarizer’ (Scikitlearn library) helped to reduce the dimensionality, but it didn’t comply well for pipeline designing and important feature finding.
+
+In general, Churn Prediction is a challenge for all kinds of business. It contributes a lot in telecommunication business in terms of planning, budget, marketing, campaign, service etc. The goal of this initiative is to reach out to the customers to prevent leaving the company. The performance of the classifier will always be a trade-off between precision and recall. If done with proper interpretation, this might lead to a helpful Churn prediction model.
+
+The findings from the analysis regarding Customer Churn due to Attitude of Support/ Service person, Competitor’s Offers, Contract type etc are the helpful findings, but using these findings for predictive modeling needs more deeper attention from data and software engineering perspective.
+
+## ACKNOWLEDGEMENT:
+
+Tools and Software: Python 3.9 (Most Commonly libraries listed below):
+* Numpy,
+* Pandas,
+* Matplotlib,
+* Seaborn,
+* Statsmodels,
+* Scikitlearn,
+* Pickle etc.
+
+
 _________________________________________
 
