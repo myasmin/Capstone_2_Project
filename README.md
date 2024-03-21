@@ -38,7 +38,7 @@ Dataset sourced from IBM Cognos
 
 The exploration of the Churn reason among churned customers revealed some interesting findings. At the end of Q2 2022, 67% of the customers stayed with the service provider and 26.54% of the Customers Churned (a customer churn rate of 25% is considered high).
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![](https://github.com/myasmin/Capstone_2_Project/blob/master/image_files/output.png)
 
 The majority of the Churned customers noted the Attitude of the Customer Representative as their reason to churn.
 
